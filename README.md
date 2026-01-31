@@ -1,1 +1,2 @@
 # DMG-RAG-Dynamic-Multi-Grained-Retrieval-Augmented-Generation-for-Multi-Hop-QA
+DMG-RAG
